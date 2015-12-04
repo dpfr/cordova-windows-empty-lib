@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-           id="windows-empty-lib"
+           id="cordova-windows-empty-lib"
       version="0.1">
 
     <name>Windows Empty Lib</name>
