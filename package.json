@@ -1,5 +1,5 @@
 {
-  "name": "ccordova-windows-empty-lib",
+  "name": "cordova-windows-empty-lib",
   "version": "0.1.0",
   "description": "A small plugin adding an empty Portable class library in order to avoid problems with Windows Phone 8.1 enterprise deployement.",
   "cordova": {
