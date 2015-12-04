@@ -12,7 +12,7 @@
 
     <!-- windows universal apps (Windows 8.1, Windows Phone 8.1, Windows 8.0) -->
     <platform name="windows">
-		    <framework src="EmptyLibrary.dll" device-target="phone" />
+			<source-file src="EmptyLibrary.dll" />
     </platform>
 
 </plugin>
